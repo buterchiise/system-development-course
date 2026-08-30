@@ -1,0 +1,15 @@
+/tmp:
+snap-private-tmp
+systemd-private-e646dd441fc346a9b5851c28c23557e1-colord.service-Y7wdkU
+systemd-private-e646dd441fc346a9b5851c28c23557e1-fwupd.service-OwDduc
+systemd-private-e646dd441fc346a9b5851c28c23557e1-ModemManager.service-zp7NKB
+systemd-private-e646dd441fc346a9b5851c28c23557e1-polkit.service-kl7Dl2
+systemd-private-e646dd441fc346a9b5851c28c23557e1-power-profiles-daemon.service-8hdv6G
+systemd-private-e646dd441fc346a9b5851c28c23557e1-switcheroo-control.service-Do3xTx
+systemd-private-e646dd441fc346a9b5851c28c23557e1-systemd-logind.service-sWJiCj
+systemd-private-e646dd441fc346a9b5851c28c23557e1-systemd-oomd.service-2uSfPV
+systemd-private-e646dd441fc346a9b5851c28c23557e1-systemd-resolved.service-VIZulK
+systemd-private-e646dd441fc346a9b5851c28c23557e1-systemd-timesyncd.service-b7qTTX
+systemd-private-e646dd441fc346a9b5851c28c23557e1-upower.service-ZSy8ON
+VMwareDnD
+vmware-root_725-4282367508
