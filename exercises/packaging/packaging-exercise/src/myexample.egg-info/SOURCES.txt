@@ -1,0 +1,8 @@
+pyproject.toml
+src/myexample/__init__.py
+src/myexample/hello.py
+src/myexample.egg-info/PKG-INFO
+src/myexample.egg-info/SOURCES.txt
+src/myexample.egg-info/dependency_links.txt
+src/myexample.egg-info/requires.txt
+src/myexample.egg-info/top_level.txt
